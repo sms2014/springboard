@@ -1,1 +1,6 @@
+This folder contains the files and directories relevant for the project
 
+csv_files : repository for .csv files
+*.ipynb : Milestone/Final Ipython notebooks for the project
+*.docx : Project proposal and Milestone/Final Reports for the project
+*.pptx : Presentation slides for the project
