@@ -1,5 +1,5 @@
 
-This folder contains files relevant to capstone 1 project (Classification of retail bank clients most likely to subscribe to offer of term deposit)
+### This folder contains files relevant to capstone 1 project (Classification of commercial bank clients most likely to subscribe to offer of term deposit)
 
 i) *.csv : datasets
 ii) Project proposal for Capstone 1.docx : Description of the project
