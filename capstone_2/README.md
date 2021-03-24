@@ -1,4 +1,4 @@
-This folder contains the files and directories relevant for the capstone 2 project (Recommend products relevant to online grocer customers based on collaborative filtering)
+### This folder contains the files relevant for the capstone 2 project (Recommend products relevant to online grocer customers based on collaborative filtering)
 
 csv_files : repository for .csv files
 *.ipynb : Milestone/Final Ipython notebooks for the project
