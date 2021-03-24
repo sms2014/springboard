@@ -1,2 +1,2 @@
-# springboard_data_science_career_track
-This repository contains capstone projects and mini-projects completed for springboard data science career track program
+# Springboard Data Science Career Track
+This repository contains capstone projects and mini-projects completed for Springboard data science career track program.
