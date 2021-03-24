@@ -1,0 +1,1 @@
+#### This folder contains files relevant to Inferential statistics bootstrap mini project. 
