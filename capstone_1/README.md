@@ -9,6 +9,6 @@ iii) Presentation Capstone 1.pptx: Presentation slides
 
 iv) Bank_Term_Deposit_Marketing_Final.ipynb : Final ipython notebook 
 
-v) *.cv : Data files relevant to project
+v) *.csv : Data files relevant to project
 
 
