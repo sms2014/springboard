@@ -1,4 +1,4 @@
-### Recommend products to online grocer customers based on similarity of customer orders
+#### Recommend products to online grocer customers based on similarity of customer orders
 
 csv_files : Directory containing data files
 
