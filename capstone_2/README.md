@@ -1,10 +1,10 @@
 ### Recommend products to online grocer customers based on similarity of customer orders
 
-csv_files : repository for .csv files
+csv_files : Directory containing data files
 
-*.ipynb : Milestone/Final Ipython notebooks for the project
+Instacart.ipynb : Final Ipython notebook
 
-*.docx : Project proposal and Milestone/Final Reports for the project
+Project Proposal.docx : Project proposal
 
-*.pptx : Presentation slides for the project
+Presentation.pptx : Presentation slides
 
