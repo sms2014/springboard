@@ -1,2 +1,2 @@
 # Springboard Data Science Career Track
-This repository contains capstone projects and mini-projects completed for Springboard data science career track program.
+This repository contains capstone projects and mini-projects completed as a Data Science Fellow for Springboard. 
