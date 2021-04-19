@@ -1,4 +1,4 @@
-### This folder contains the files and directories relevant for the capstone 2 project (Recommend products relevant to online grocer customers based on collaborative filtering)
+### Recommend products to online grocer customers based on similarity of customer orders
 
 csv_files : repository for .csv files
 
