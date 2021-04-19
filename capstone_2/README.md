@@ -2,11 +2,11 @@
 
 csv_files : Directory containing data files
 
-Final Report Capstone2.docx : Final report
+Final Report Capstone 2.docx : Final report
 
 Instacart_Final.ipynb : Final Ipython notebook
 
-Project Proposal.docx : Project proposal
+Project Proposal for Capstone 2.docx : Project proposal
 
-Presentation.pptx : Presentation slides
+Presentation Capstone 2.pptx : Presentation slides
 
