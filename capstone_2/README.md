@@ -20,7 +20,7 @@ iii) Since each user had multiple orders, each user ended up having multiple clu
 
 iv) Top 15 products for each cluster were identified
 
-v) For each user, products that had not been purchased out of the top 15 products corresponding to the user's cluster were identified and were recommended to the user
+v) For each user, products that had not been purchased out of the top 15 products corresponding to the user's "cluster label" were identified and were recommended to the user
 
 
 
