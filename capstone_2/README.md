@@ -16,11 +16,11 @@ i) Instacart's publicly available data was obtained from Kaggle (about 3.4M orde
 
 ii) Features that represented the behavioral attributes of the users were selected to cluster the orders using k-means algorithm
 
-iii) Since each user has multiple orders, each user would end up having multiple cluster labels. The dominant/most frequent cluster label is chosen for a user and is assigned as the "cluster label" for the user. 
+iii) Since each user had multiple orders, each user ended up having multiple cluster labels. The dominant/most frequent cluster label was chosen for a user and was assigned as the "cluster label" for the user
 
-iv) Top 15 products for each cluster are identified. 
+iv) Top 15 products for each cluster were identified
 
-v) For each user, top 15 products corresponding to the user's cluster that have not been purchased by the user in the past are recommended to the user
+v) For each user, products that had not been purchased out of the top 15 products corresponding to the user's cluster were identified and were recommended to the user
 
 
 
