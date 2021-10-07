@@ -1,26 +1,24 @@
-#### Recommendation of products to online grocer customers based on similarity of their orders
+# Recommendation of products to online grocer customers based on similarity of their orders
+### Reason for creating:
+I created this project as part of Springboard's Capstone2 project. 
 
-csv_files : Directory containing data files
+### Purpose of project:
+The purpose of this project was to recommend relevant products to online grocer customers based on similarity of their orders. Online grocers are interested in making sure that their customers continue to stay engaged with their technology platform. One of the ways they can do this is by recommending relevant products to their customers based on their purchasing history (content based filtering approach) or their similarity to other customers (collaborative filtering approach). The results of this project would be useful to marketing team at an online grocer in recommending relevant products to their customers based on collaborative filtering approach. 
 
-Final Report Capstone 2.docx : Final report
+### Description of files:
+    csv_files : Directory containing data files relevant to the project
+    
+    Final Report Capstone 2.docx : Report for the project
+    
+    Instacart_Final.ipynb : Jupyter notebook for the project
+    
+    Presentation Capstone 2.pptx : Presentation for the project
+    
+    Project Proposal for Capstone 2.docx : Proposal for the project
+  
+### Acknowledgements:
+Instacart (online grocer) made their data available on Kaggle. Data was obtained from Kaggle. 
 
-Instacart_Final.ipynb : Final Ipython notebook
-
-Presentation Capstone 2.pptx : Presentation slides
-
-Project Proposal for Capstone 2.docx : Project description
-
-#### The focus of this project was on providing personalized product recommendations to online grocer customers (Instacart's customers):
-
-i) Instacart's publicly available data was obtained from Kaggle (about 3.4M orders, about 200K users, about 50K products)
-
-ii) Features that represented the behavioral attributes of the users were selected to cluster the orders using k-means algorithm
-
-iii) Since each user had multiple orders, each user ended up having multiple cluster labels. The dominant/most frequent cluster label was chosen for a user and was assigned as the "cluster label" for the user
-
-iv) Top 15 products for each cluster were identified
-
-v) For each user, products that had not been purchased out of the top 15 products corresponding to the user's "cluster label" were identified and were recommended to the user
 
 
 
